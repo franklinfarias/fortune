@@ -8,23 +8,23 @@ Simple manager financial with: Acccount, Plan Account, Bills, Budget, Category a
 # Screenshots
 
 Login: 
-<img src="https://github.com/franklinfarias/fortune/install/screenshots/07.png" width="200" height="200" />
+<img src="https://github.com/franklinfarias/fortune/blob/master/install/screenshots/07.jpg" width="200" height="200" />
 
 Dashboard: 
-<img src="https://github.com/franklinfarias/fortune/install/screenshots/01.png" width="200" height="200" />
+<img src="https://github.com/franklinfarias/fortune/blob/master/install/screenshots/01.jpg" width="200" height="200" />
 
 Transaction: 
-<img src="https://github.com/franklinfarias/fortune/install/screenshots/02.png" width="200" height="200" />
+<img src="https://github.com/franklinfarias/fortune/blob/master/install/screenshots/02.jpg" width="200" height="200" />
 
 Incoming vs Expenses: 
-<img src="https://github.com/franklinfarias/fortune/install/screenshots/03.png" width="200" height="200" />
+<img src="https://github.com/franklinfarias/fortune/blob/master/install/screenshots/03.jpg" width="200" height="200" />
 
 Resume Expenses: 
-<img src="https://github.com/franklinfarias/fortune/install/screenshots/04.png" width="200" height="200" />
+<img src="https://github.com/franklinfarias/fortune/blob/master/install/screenshots/04.jpg" width="200" height="200" />
 
 Resume Incoming: 
-<img src="https://github.com/franklinfarias/fortune/install/screenshots/05.png" width="200" height="200" />
+<img src="https://github.com/franklinfarias/fortune/blob/master/install/screenshots/05.jpg" width="200" height="200" />
 
 Configuration: 
-<img src="https://github.com/franklinfarias/fortune/install/screenshots/06.png" width="200" height="200" />
+<img src="https://github.com/franklinfarias/fortune/blob/master/install/screenshots/06.jpg" width="200" height="200" />
 
