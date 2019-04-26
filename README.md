@@ -8,23 +8,23 @@ Simple manager financial with: Acccount, Plan Account, Bills, Budget, Category a
 # Screenshots
 
 Login: 
-![alt text](https://github.com/franklinfarias/fortune/install/screenshots/07.png "Login")
+<img src="https://github.com/franklinfarias/fortune/install/screenshots/07.png" width="200" height="200" />
 
 Dashboard: 
-![alt text](https://github.com/franklinfarias/fortune/install/screenshots/01.png "Dashboard")
+<img src="https://github.com/franklinfarias/fortune/install/screenshots/01.png" width="200" height="200" />
 
 Transaction: 
-![alt text](https://github.com/franklinfarias/fortune/install/screenshots/02.png "Transaction")
+<img src="https://github.com/franklinfarias/fortune/install/screenshots/02.png" width="200" height="200" />
 
 Incoming vs Expenses: 
-![alt text](https://github.com/franklinfarias/fortune/install/screenshots/03.png "Incoming vs Expenses")
+<img src="https://github.com/franklinfarias/fortune/install/screenshots/03.png" width="200" height="200" />
 
 Resume Expenses: 
-![alt text](https://github.com/franklinfarias/fortune/install/screenshots/04.png "Resume Expenses")
+<img src="https://github.com/franklinfarias/fortune/install/screenshots/04.png" width="200" height="200" />
 
 Resume Incoming: 
-![alt text](https://github.com/franklinfarias/fortune/install/screenshots/05.png "Resume Incoming")
+<img src="https://github.com/franklinfarias/fortune/install/screenshots/05.png" width="200" height="200" />
 
 Configuration: 
-![alt text](https://github.com/franklinfarias/fortune/install/screenshots/06.png "Configuration")
+<img src="https://github.com/franklinfarias/fortune/install/screenshots/06.png" width="200" height="200" />
 
